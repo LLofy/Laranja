@@ -1,1 +1,1 @@
-Um programar de machine learning simples que classifica maçãs e laranjas.
+Um programa de machine learning simples que classifica maçãs e laranjas.
